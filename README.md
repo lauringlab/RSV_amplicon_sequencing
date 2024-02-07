@@ -12,6 +12,6 @@ A protocol for RSV-A and RSV-B sequencing that consists of two pools of overlapp
 
 ### RSV-B
 - Uses hRSV/B/Australia/VIC-RCH056/2019 (EPI_ISL_1653999) as the reference, which is available on GISAID
-- consists of 50 primer pairs, with all odd numbered pairs in pool 1 and even numbered primers in pool 2
+- consists of 51 primer pairs, with all odd numbered pairs in pool 1 and even numbered primers in pool 2
 
 ![Primer Scheme](RSVB_scheme_plot.png) 
