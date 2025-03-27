@@ -14,6 +14,7 @@ Primer Version V2.1
 ### RSV-B
 - Uses hRSV/B/Australia/VIC-RCH056/2019  as the reference (EPI_ISL_1653999 on GISAID and OP975389 on Genbank). 
 - consists of 51 primer pairs, with all odd numbered pairs in pool 1 and even numbered primers in pool 2
+- Primer Version V2.2 has an option for balancing the primer pools. 
 ![Primer Scheme](RSVB_scheme_plot.png) 
 
 Please cite the following paper:
