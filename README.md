@@ -6,6 +6,9 @@ A protocol for RSV-A and RSV-B sequencing that consists of two pools of overlapp
 ### RSV-A
 - Uses hRSV/A/England/397/2017 as the reference (EPI_ISL_412866 on GISAID and PP109421.1 on Genbank). 
 - Consists of 51 primer pairs.
+- All odd numbered pairs in pool 1 and even numbered primers in pool 2, except for primer pair 51 which is in pool 2. Amplicon 51 is at the 5' end of the genome. 
+
+Primer Version V2.1
 - Amplicon 51 has alternative forward primers, and is not ~400 bp long. The first forward primer creates an amplicon that is ~580 bp long and the second primer creates an amplicon that is ~300 bp in length. This is something to keep in mind if filtering on read length for ONT sequencing. 
 ![Primer Scheme](RSVA_scheme_plot.png) 
 ### RSV-B
